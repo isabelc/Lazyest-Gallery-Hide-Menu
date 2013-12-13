@@ -5,8 +5,8 @@ Contributors: isabel104
 Donate link: http://isabelcastillo.com/donate/
 Tags: lazyest gallery, menu, admin menu, hide menu
 Requires at least: 3.2
-Tested up to: 3.7.1
-Stable Tag: 1.1
+Tested up to: 3.8
+Stable Tag: 1.2
 License: GNU Version 2 or Any Later Version
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,6 +30,9 @@ For more info, see [the FAQ](http://wordpress.org/plugins/lazyest-gallery-hide-m
 
 Yes, it is.
 == Changelog ==
+
+= 1.2 =
+* Tested for WP 3.8 compatibility.
 
 = 1.1 =
 * Tested for WP 3.7.1 compatibility.
