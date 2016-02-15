@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Lazyest Gallery Hide Menu
-Plugin URI: http://isabelcastillo.com/downloads/lazyest-gallery-hide-menu-wp-plugin
+Plugin URI: http://isabelcastillo.com/free-plugins/lazyest-gallery-hide-menu
 Description: Hide the Lazyest Gallery admin menu item from all users except administrators. Avoids users deleting your pictures.
 Version: 1.2.1
 Author: Isabel Castillo

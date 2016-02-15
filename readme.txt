@@ -15,7 +15,7 @@ This is an extension for [Lazyest Gallery](http://wordpress.org/plugins/lazyest-
 
 Please note that this only hides the menu, it does not alter actual "capabilities". From the WordPress codex: "Please be aware that this would not prevent a user from accessing these screens directly. Removing a menu does not replace the need to filter a user's permissions as appropriate."
 
-For more info, see [the FAQ](http://wordpress.org/plugins/lazyest-gallery-hide-menu/faq/), and the [Installation Instructions](http://wordpress.org/plugins/lazyest-gallery-hide-menu/installation/). Or see the [plugin's web page](http://isabelcastillo.com/downloads/lazyest-gallery-hide-menu-plugin), or [GitHub](https://github.com/isabelc/lazyest-gallery-hide-menu).
+For more info, see [the FAQ](http://wordpress.org/plugins/lazyest-gallery-hide-menu/faq/), and the [Installation Instructions](http://wordpress.org/plugins/lazyest-gallery-hide-menu/installation/). Or see the [plugin's web page](http://isabelcastillo.com/free-plugins/lazyest-gallery-hide-menu), or [GitHub](https://github.com/isabelc/lazyest-gallery-hide-menu).
 == Installation ==
 
 1. Download the plugin to your computer.
