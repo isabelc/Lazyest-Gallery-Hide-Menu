@@ -3,7 +3,7 @@ Contributors: isabel104
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=me%40isabelcastillo%2ecom
 Tags: lazyest gallery, menu, admin menu, hide menu
 Requires at least: 3.2
-Tested up to: 4.2.2
+Tested up to: 4.6
 Stable tag: 1.2.2
 License: GNU Version 2 or Any Later Version
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
